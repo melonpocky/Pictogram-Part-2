@@ -2,7 +2,7 @@
 
 **Pictogram** is a photo sharing app similar to Instagram but using Parse as its backend.
 
-Time spent: **X** hours spent in total
+Time spent: **13** hours spent in total
 
 ## User Stories
 
@@ -14,7 +14,7 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-- [ ] User sees app icon in home screen and styled bottom navigation view
+- [x] User sees app icon in home screen and styled bottom navigation view
 - [ ] Style the feed to look like the real Instagram feed.
 - [ ] User can load more posts once he or she reaches the bottom of the feed using infinite scrolling.
 - [ ] Show the username and creation time for each post.
@@ -41,6 +41,8 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
+- Had issues with posts, make sure to delete all the posts before using app or else there can be a null ptr exception.
+- Comprehending the last required story for the app and implementing swipe to refresh. 
 
 ## Open-source libraries used
 
