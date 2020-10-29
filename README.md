@@ -28,7 +28,9 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
+- [x] List anything else that you can get done to improve the app functionality!
+- Created a separate activity for sign up to make it more similar to Instagram's sign up page
+- Added a logout button on the navigation bar 
 
 ## Video Walkthrough
 
